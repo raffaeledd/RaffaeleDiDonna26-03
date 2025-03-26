@@ -11,12 +11,16 @@ int inserimento(struct oggetto *oggetto, int imput) {
     int x;
 
     do {
+        imput = ultimooggetto;
         printf("inserisci il numero di oggetti che si ha nel magazino (1-100):\n");
 
         scanf("%d", &x);
         imput += x;
         if (imput > 100) {
-            printf("valore oltre il limite");
+            printf("valore oltre il limite\n");
+        }
+        else if (imput < 1) {
+            printf("valore sotto il minimo\n");
         }
     } while (imput > 100 || imput < 1);
 
