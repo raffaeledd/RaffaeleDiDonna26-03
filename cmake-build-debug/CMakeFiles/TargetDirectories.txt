@@ -1,0 +1,3 @@
+C:/Users/10261/CLionProjects/2025_03_26_3B_ITT_Lab_Informatica_DiDonna/cmake-build-debug/CMakeFiles/2025_03_26_3B_ITT_Lab_Informatica_DiDonna.dir
+C:/Users/10261/CLionProjects/2025_03_26_3B_ITT_Lab_Informatica_DiDonna/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/10261/CLionProjects/2025_03_26_3B_ITT_Lab_Informatica_DiDonna/cmake-build-debug/CMakeFiles/rebuild_cache.dir
